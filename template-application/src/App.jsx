@@ -1,5 +1,5 @@
 import React, { useState } from "react"
-import { Routes, Route, Navigate } from 'react-router-dom'
+import { Routes, Route, Link } from 'react-router-dom'
 import { Home, About, Projects, Contact, Error } from './components'
 import "./App.css"
 
