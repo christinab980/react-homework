@@ -26,7 +26,7 @@ const Contact = () => {
     }
     return (
         <Container className="contact-container">
-            <div className="content-wrapper">
+            <div className="contact-wrapper">
                 <h2 className="contact-header">Contact Us</h2>
                 {submitted ? (
                     <div id="submitted-message-container">
